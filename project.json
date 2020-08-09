@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "CommondPattern",
+  "id": "1fcf405c-6d7c-44fb-bd02-8ba17a511b17",
+  "version": "2.4.0",
+  "isNew": false
+}
